@@ -2,4 +2,4 @@
 
 Comment installer ce projet ?
 
-Il suffit, pour le momment, de le cloner.
+pour le momment, de le cloner.
